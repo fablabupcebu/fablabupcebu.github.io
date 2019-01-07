@@ -1260,9 +1260,9 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: none;
-  width: 57px;
-  height: 57px;
-  background: url("../images/logo-white.png") no-repeat center;
+  width: 80px;
+  height: 80px;
+  background: url("../images/logox.png") no-repeat center;
   background-size: 57px 57px;
   font: 0/0 a;
   text-shadow: none;
